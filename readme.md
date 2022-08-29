@@ -1,4 +1,4 @@
-# **Project 01: 2025 Landing page**
+# **Project 03:**
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
 <br>
@@ -28,7 +28,7 @@
 
 <br>
 
-> If you have any feedBack , ping me at my socials. rintumondal1998@gmail.com
+> If you have any feedBack , ping me at my socials. srintumondal1998@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
