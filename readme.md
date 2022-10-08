@@ -5,7 +5,7 @@
 
 ## **Time taken :** ✍🏼
 
->### It took me about 120 mins to complete this project.
+>### It took me about 25 mins to complete this project.
 <br>
 
 ## **Live Demo**  💻 
@@ -16,7 +16,7 @@
 ## **Preview**🔎
 <br>
 
-![screenshot](./Screenshot.png)
+![screenshot](./ss/ss.png)
 <br>
 
 

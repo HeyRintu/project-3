@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=DynaPuff&family=Poppins&family=Silkscreen&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(43,41,34);
+    color: #fff;
+    font-family:Poppins;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 50px;
+}
+nav img{
+    height: 40px;
+}
+.item {
+    color: #5E5C54;
+    text-decoration: none;
+    padding-right: 40px;
+    font-size: 17px;
+    font-weight:600;
+}
+button {
+    background: transparent;
+    padding: 12px 25px;
+    border:1px solid #938434;
+    border-radius: 10px;
+    font-size: 21px;
+    color: #938434;;
+}
+.hero {
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.hero h1{
+    font-size: 75px;
+    width: 750px;
+}
+.hero p{
+    font-size: 20px;
+    color: #5E5C54;
+    width: 450px;
+    /* margin: 0 50PX; */
+}
+.img{
+    width: 100vw;
+}
